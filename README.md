@@ -48,6 +48,10 @@ The case-study estimates show a clear difference between raw growth and causal-a
 
 Neither regression estimate reached statistical significance in the available sample. The evidence therefore does not support an immediate network-wide rollout. A targeted continuation in the strongest regions, combined with redesigned measurement and additional post-period data, is the more defensible decision.
 
+![Province effect comparison](figures/province-sales-lift-comparison.png)
+
+![Overall effect versus threshold](figures/overall-effect-vs-threshold.png)
+
 ## Repository structure
 
 ```text
