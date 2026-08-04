@@ -52,6 +52,8 @@ Neither regression estimate reached statistical significance in the available sa
 
 ![Overall effect versus threshold](figures/overall-effect-vs-threshold.png)
 
+![Matched-control effect by province](figures/matched-effect-by-province.png)
+
 ## Repository structure
 
 ```text
