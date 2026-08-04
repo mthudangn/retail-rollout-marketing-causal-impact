@@ -1,0 +1,121 @@
+store_id,province,year,sales,treated
+1,Alberta,2011,3542.2,1
+1,Alberta,2012,3536.0,1
+1,Alberta,2014,4604.5,1
+2,Alberta,2011,3661.9,1
+2,Alberta,2012,3671.6,1
+2,Alberta,2014,4654.1,1
+3,Alberta,2011,3447.5,1
+3,Alberta,2012,3566.9,1
+3,Alberta,2014,4582.1,1
+4,Alberta,2011,3611.7,1
+4,Alberta,2012,3701.6,1
+4,Alberta,2014,4742.4,1
+5,Alberta,2011,3770.6,0
+5,Alberta,2012,3939.3,0
+5,Alberta,2014,4093.1,0
+6,Alberta,2011,4074.3,0
+6,Alberta,2012,3997.5,0
+6,Alberta,2014,4339.4,0
+7,Alberta,2011,4184.2,0
+7,Alberta,2012,4066.3,0
+7,Alberta,2014,4210.5,0
+8,Alberta,2011,4180.2,0
+8,Alberta,2012,4299.5,0
+8,Alberta,2014,4697.0,0
+9,British Columbia,2011,3844.7,1
+9,British Columbia,2012,3960.6,1
+9,British Columbia,2014,5157.0,1
+10,British Columbia,2011,3928.2,1
+10,British Columbia,2012,4069.7,1
+10,British Columbia,2014,5097.2,1
+11,British Columbia,2011,4065.8,1
+11,British Columbia,2012,4384.8,1
+11,British Columbia,2014,5502.3,1
+12,British Columbia,2011,4470.5,1
+12,British Columbia,2012,4488.3,1
+12,British Columbia,2014,5700.3,1
+13,British Columbia,2011,4011.7,0
+13,British Columbia,2012,4644.8,0
+13,British Columbia,2014,4550.3,0
+14,British Columbia,2011,4502.0,0
+14,British Columbia,2012,4770.1,0
+14,British Columbia,2014,5029.8,0
+15,British Columbia,2011,4369.9,0
+15,British Columbia,2012,4612.9,0
+15,British Columbia,2014,5104.6,0
+16,British Columbia,2011,4590.4,0
+16,British Columbia,2012,4558.2,0
+16,British Columbia,2014,5094.2,0
+17,Manitoba,2011,4440.6,1
+17,Manitoba,2012,4713.2,1
+17,Manitoba,2014,5825.8,1
+18,Manitoba,2011,4503.8,1
+18,Manitoba,2012,4615.6,1
+18,Manitoba,2014,5947.7,1
+19,Manitoba,2011,4461.4,1
+19,Manitoba,2012,4628.2,1
+19,Manitoba,2014,6036.1,1
+20,Manitoba,2011,4935.2,1
+20,Manitoba,2012,5122.0,1
+20,Manitoba,2014,6372.2,1
+21,Manitoba,2011,5073.4,0
+21,Manitoba,2012,4992.3,0
+21,Manitoba,2014,5643.5,0
+22,Manitoba,2011,5082.8,0
+22,Manitoba,2012,5311.9,0
+22,Manitoba,2014,5624.1,0
+23,Manitoba,2011,4893.0,0
+23,Manitoba,2012,5228.2,0
+23,Manitoba,2014,5749.5,0
+24,Manitoba,2011,5023.9,0
+24,Manitoba,2012,5356.6,0
+24,Manitoba,2014,5745.0,0
+25,Ontario,2011,4572.7,1
+25,Ontario,2012,5029.8,1
+25,Ontario,2014,6326.3,1
+26,Ontario,2011,4728.3,1
+26,Ontario,2012,5016.9,1
+26,Ontario,2014,6302.8,1
+27,Ontario,2011,4751.7,1
+27,Ontario,2012,5040.1,1
+27,Ontario,2014,6283.0,1
+28,Ontario,2011,5351.5,1
+28,Ontario,2012,5298.3,1
+28,Ontario,2014,6863.8,1
+29,Ontario,2011,5044.7,0
+29,Ontario,2012,5280.9,0
+29,Ontario,2014,5685.1,0
+30,Ontario,2011,5031.0,0
+30,Ontario,2012,5555.4,0
+30,Ontario,2014,6005.3,0
+31,Ontario,2011,5486.7,0
+31,Ontario,2012,5890.1,0
+31,Ontario,2014,6293.3,0
+32,Ontario,2011,5464.5,0
+32,Ontario,2012,5639.3,0
+32,Ontario,2014,6473.5,0
+33,Quebec,2011,5150.4,1
+33,Quebec,2012,5458.4,1
+33,Quebec,2014,7088.3,1
+34,Quebec,2011,5548.6,1
+34,Quebec,2012,5706.7,1
+34,Quebec,2014,7370.5,1
+35,Quebec,2011,5610.6,1
+35,Quebec,2012,5825.4,1
+35,Quebec,2014,7291.7,1
+36,Quebec,2011,5648.2,1
+36,Quebec,2012,5831.0,1
+36,Quebec,2014,7576.7,1
+37,Quebec,2011,5798.0,0
+37,Quebec,2012,6226.1,0
+37,Quebec,2014,6689.6,0
+38,Quebec,2011,5986.5,0
+38,Quebec,2012,6127.2,0
+38,Quebec,2014,6931.0,0
+39,Quebec,2011,5821.4,0
+39,Quebec,2012,6069.9,0
+39,Quebec,2014,6652.9,0
+40,Quebec,2011,5977.8,0
+40,Quebec,2012,6229.1,0
+40,Quebec,2014,6871.3,0
