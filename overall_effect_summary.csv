@@ -1,0 +1,4 @@
+estimate_type,incremental_units,threshold_units,decision
+Raw pilot-store lift,1318,1100,Above threshold before control adjustment
+DiD without matching,840,1100,Below threshold
+DiD with matched controls,790,1100,Below threshold

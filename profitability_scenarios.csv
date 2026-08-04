@@ -1,0 +1,4 @@
+scenario,units_per_store,profit_per_unit_cad,pilot_stores,gross_incremental_profit_cad,supports_full_rollout
+Observed gross lift,1318,30,50,1977000,False
+Unmatched DiD estimate,840,30,50,1260000,False
+Matched DiD estimate,790,30,50,1185000,False
